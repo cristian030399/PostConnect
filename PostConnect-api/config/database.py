@@ -4,7 +4,7 @@ from sqlalchemy.ext.declarative import declarative_base
 
 db_user = "root"
 db_pass = "root"
-db_name = "my_movie_db"
+db_name = "post_connect_db"
 db_server = "127.0.0.1"
 db_port = "3306"
 
